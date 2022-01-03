@@ -1,18 +1,30 @@
-#EOS ICONS 
+# EOS ICONS - Implementation
 
 ### EOS ICONS - It picks up the icons that you want 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-## Discription:
+### Discription:
 When an icon is picked in the frontend ,a trigger is created and the middleware lets us connect to our database when the icon is fetched .Our backend/database is Mongodb and middleware is redis .
 
-## Pre-requisites :
+### Pre-requisites :
 - Docker , MongoDB , MongoDB Compass ,Redis 
+
+- ![image](https://user-images.githubusercontent.com/95223286/147964922-4c52e7b2-3be7-4261-9ba9-017d229c80c8.png)
+![image](https://user-images.githubusercontent.com/95223286/147964643-351bd93b-241e-4482-9626-e14832379906.png)
+![image](https://user-images.githubusercontent.com/95223286/147965043-9525e02a-3591-43ea-a77b-8a17b4cd38f2.png)
+
 
 
 
 - Any IDE tool that lets you edit and run different types of files. I used _VisualStudio Code_ as my IDE tool.
+
+### Technologies involved :
+- Typescript, javascript, Node.js, Docker, MongoDB, Redis, Algolia, Mocha, Gitlab hooks, Github workflows.
+
+### Overview of the project:
+![image](https://user-images.githubusercontent.com/95223286/147963179-c3b6f8cf-63f9-4249-a3a9-4569b7051fb3.png)
+
 
 ## Steps to run the project
 
