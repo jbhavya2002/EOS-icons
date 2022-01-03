@@ -1,8 +1,10 @@
-# EOS ICONS - It picks up the icons that you want 
+#EOS ICONS 
+
+### EOS ICONS - It picks up the icons that you want 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 
-# Discription:
+## Discription:
 When an icon is picked in the frontend ,a trigger is created and the middleware lets us connect to our database when the icon is fetched .Our backend/database is Mongodb and middleware is redis .
 
 ## Pre-requisites :
